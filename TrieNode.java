@@ -1,3 +1,9 @@
+//Integrantes do grupo
+//Nome: Daniel Henrique Carvalho RA:10736657
+//Nome: Felipe Sousa Vasques Honorato RA:10735577
+
+
+
 // Representa um unico no da Trie. Cada no guarda uma letra e seus filhos.
 public class TrieNode {
     // Quantidade de letras do alfabeto ingles: de a ate z.
